@@ -93,7 +93,7 @@ export const skills = [
       },
       {
         name: "Angular Material",
-        image: "assets/images/angular-material.png"
+        image: "https://bomma.s3.ap-south-1.amazonaws.com/angular_material/angular_material_syllabus.png"
       },
       {
         name: "Prime NG",
